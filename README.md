@@ -2,7 +2,8 @@
 게임인재원에서 진행했던 프로젝트, 과제 모음
 
 # 피노키오 프로젝트(2023.05)
-기획, 아트, 프로그래밍 총 8명 팀으로 2주간 2D 횡스크롤 공포게임을 제작 하였습니다.
+1학기 마무리로 2주동안 진행되었던 게임제작 프로젝트 입니다.
+기획(2), 아트(2), 프로그래밍(4) 총 8명 팀으로 2D 횡스크롤 공포게임을 제작 하였습니다.
 ![2025-06-30 10 19 41](https://github.com/user-attachments/assets/ca95d6f6-37e0-4894-a5d0-5312b2ca5e7b)
 ![2025-06-30 10 20 32](https://github.com/user-attachments/assets/1dcc4cd1-6fce-4226-a9f0-039fdf0a8047)
 ![2025-06-30 10 21 06](https://github.com/user-attachments/assets/ba3c299d-3741-4f05-b811-de2a9f399861)
