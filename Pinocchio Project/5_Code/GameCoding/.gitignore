@@ -1,0 +1,49 @@
+# Visual Studio 관련
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+
+# 빌드 결과물
+*.exe
+*.obj
+*.lib
+*.dll
+*.pdb
+*.exp
+*.ilk
+*.idb
+
+# 중간 결과물 (빌드 캐시)
+[Bb]uild*/
+[Bb]inaries*/
+[Oo]bj/
+[Oo]utput/
+Intermediate*/
+*.cache
+*.log
+
+# x64 / Debug / Release 빌드 결과 폴더
+x64/
+x86/
+Debug*/
+Release*/
+Binaries*/
+Binariesx64Debug/
+Binariesx64Release/
+Intermediatex64Debug/
+Intermediatex64Release/
+
+# 리소스나 임시 파일
+*.tmp
+*.bak
+*.old
+
+# 시스템 파일
+.DS_Store
+Thumbs.db

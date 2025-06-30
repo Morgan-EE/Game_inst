@@ -1,0 +1,47 @@
+Player_Start
+아으 머리야.. 제대로 온건가? 여긴 왜이렇게 어둡지? 일단 주변을 둘러볼까?
+RestRoom_NoKey
+여긴 잠겨있어…
+RestRoom_Key
+흠, 이 열쇠가 딱 맞을 것 같은데… 오, 열렸어! 이제 안에 무슨 비밀이 숨어있는지 알 수 있겠어!
+WareRoom_NoKey
+여긴 잠겨있어…
+WareRoom_Key
+(열쇠를 사용하여 문이 열립니다.)
+Kitchen_NoKey
+여긴 잠겨있어…
+Kitchen_Key
+(열쇠를 사용하여 문이 열립니다.)
+LittlePino
+Switch_NoConneted
+아무런 반응이 없어…
+Switch_Conneted
+저기 있는 전등에 불이 켜졌어.. 가볼까..?
+Toilet_NoConneted
+깜짝이야!! 도대체 이곳에 무슨 일이 있었던 거지?
+Toilet_Conneted
+도대체 이게 무슨.. 어라? 여기에 무엇인가 있어
+Pino_NoConneted
+이 끔찍하게 생긴 인형은 뭐지? 소름끼쳐..
+Pino_Conneted
+여기에 분명 인형이 있었는데 어디로 사라진거지?
+RestRoom_GetKey
+여기에 또 다른 열쇠가 있어!
+Cheese_NoTrap
+바닥에 떨어진 음식을 주워 먹고 싶진 않아
+Cheese_Trap
+이걸 이용한다면..?
+WareRoom_GetKey
+열쇠다!!!
+GetPaint
+새로운 그림 조각이다.
+Mouse_NoCheese
+으아 쥐다! 난 쥐가 너무 싫어…
+Mouse_Cheese
+굳이 얘한테 먹이로 주고 싶지 않아..
+Trap_NoCheese
+무섭게 생긴 덫이 있어.. 여길 지나가야 하는데…
+Trap_Cheese
+이 치즈를 덫 위에 올려볼까..?
+MouseTrap
+왜 쥐가 이걸 가지고 있던거야..

@@ -1,0 +1,19 @@
+playerX
+615
+boxCollider1y
+200
+playerY
+0
+boxCollider1X
+300.062561
+
+300
+
+Room이
+
+override 상속 받아야함
+stage의 렌더를 시켜줄 수 있게 변경
+
+UI Depth 우선순위
+레이어 피킹
+드래그 앤 드랍
