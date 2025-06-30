@@ -18,6 +18,7 @@
 
 # 3D 그래픽스 프로그래밍(2023.08)
 주어진 요구사항에 맞추어 도형을 구현하고, 벡터 계산에 따른 빛의 방향 및 세기를 조절하게끔 구현하는 과제입니다.
+![3D Graphics GIF](./GameApp.gif)
 ![2025-06-30 09 32 28](https://github.com/user-attachments/assets/d9a0ed45-f181-4836-833d-15dca460848c)
 ![2025-06-30 09 33 51](https://github.com/user-attachments/assets/703d7b62-fd8c-460c-999d-5d8b8e089e76)
 
